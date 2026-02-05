@@ -28,7 +28,7 @@ Currently preparing to build a startup-scale project 🚀
 
 🛠️ Tech Stack
 
-Languages
+ ~ Languages:
 
 Java (DSA)
 
@@ -36,7 +36,7 @@ JavaScript
 
 Python
 
-Frontend
+~ Frontend:
 
 React
 
@@ -46,7 +46,7 @@ Tailwind CSS
 
 HTML • CSS
 
-Tools & Workflow
+~Tools & Workflow :
 
 Git & GitHub
 
@@ -69,7 +69,7 @@ Responsive multi-page site — Winner of squad competition.
 
 👉 Check repositories below 👇
 
-📈 Currently Learning
+📈 Currently Learning:
 
 Backend Development
 
