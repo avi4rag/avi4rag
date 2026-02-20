@@ -90,7 +90,7 @@ Linux • Git & GitHub • CLI Workflow
 
 ### 🎟 Evently — Event Booking Platform
 
-<img src="https://raw.githubusercontent.com/avi4rag/avi4rag/main/assets/evently-preview.png" />
+<img src="https://raw.githubusercontent.com/avi4rag/avi4rag/main/Assets/evently-preview.png" />
 
 **Stack:** React • Vite • Tailwind • shadcn/ui • React Query • Vitest  
 
@@ -108,7 +108,7 @@ Linux • Git & GitHub • CLI Workflow
 ### 🛕 Somnath Darshan Flow  
 Temple Management System
 
-<img src="https://raw.githubusercontent.com/avi4rag/avi4rag/main/assets/somnath-preview.png" />
+<img src="https://raw.githubusercontent.com/avi4rag/avi4rag/main/Assets/somnath-preview.png" />
 
 • Crowd monitoring simulation  
 • Queue management logic  
@@ -129,7 +129,7 @@ Built during Smart India Hackathon.
 ### 🏆 Squad 125 Portfolio Website
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/avi4rag/avi4rag/main/assets/squad-preview.png" width="70%" />
+  <img src="https://raw.githubusercontent.com/avi4rag/avi4rag/main/Assets/squad-preview.png" width="70%" />
 </p>
 
 Responsive multi-page competition-winning website built with pure HTML, CSS & JavaScript.
