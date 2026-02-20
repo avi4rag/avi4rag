@@ -124,17 +124,6 @@ Built during Smart India Hackathon.
 </tr>
 </table>
 
----
-
-### 🏆 Squad 125 Portfolio Website
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/avi4rag/avi4rag/main/Assets/squad-preview.png" width="70%" />
-</p>
-
-Responsive multi-page competition-winning website built with pure HTML, CSS & JavaScript.
-
-🔗 [Live Demo](https://lnkd.in/gheZBYwx)
 
 ---
 
@@ -162,13 +151,6 @@ Responsive multi-page competition-winning website built with pure HTML, CSS & Ja
 ---
 
 
-## ⏱ Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-(WakaTime automation activating soon.)
-
 ---
 
 
@@ -178,7 +160,7 @@ Responsive multi-page competition-winning website built with pure HTML, CSS & Ja
 <tr>
 <td>
 
-• Build 2 backend-heavy production applications  
+• Build backend-heavy production applications  
 • Contribute meaningfully to open-source  
 • Learn deployment & DevOps fundamentals  
 • Integrate backend systems with AI/ML workflows  
@@ -205,4 +187,8 @@ Responsive multi-page competition-winning website built with pure HTML, CSS & Ja
   <a href="mailto:avi4rag@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+</p>
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:7a1c1c,100:0f0f0f&height=180&section=footer&animation=twinkling" />
 </p>
