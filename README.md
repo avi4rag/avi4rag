@@ -1,100 +1,51 @@
-👋 Hi, I'm Anurag
+<h1 align="center">Hi 👋, I'm Anurag</h1>
+<h3 align="center">Full-Stack Developer • DSA in Java • Future Open Source Contributor</h3>
 
-Computer Science student • Full-Stack Learner • DSA in Java
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avi4rag&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-I like building real projects, learning by doing, and documenting the journey.
+---
 
-🚀 Current Focus
+### 🚀 Current Focus
+<p align="center">
+Backend Development • DSA (Java) • Open Source • Production-Scale Projects
+</p>
 
-Full-Stack Development
+---
 
-Data Structures & Algorithms (Java)
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,mongodb,tailwind,git,linux,vite" />
+</p>
 
-Backend Development (learning phase)
+---
 
-Open Source (GSSOC / GSOC / ESOC)
+### 📊 GitHub Stats
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=avi4rag&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi4rag&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Hackathons & real-world projects
+---
 
-🧠 About Me
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=avi4rag&theme=tokyonight&hide_border=true" />
+</p>
 
-I’m a CSE student at JECRC University (Kalvium SDE Program).
+---
 
-My goal is simple: become a strong engineer by building consistently instead of staying stuck in tutorials.
+### 📌 Featured Projects
+- 🚀 **Evently** – React + Tailwind event booking platform  
+- 🏛 **Temple Management System** – Queue system + analytics dashboard  
+- 🏆 **Squad Portfolio** – Competition-winning multi-page website  
 
-So far I’ve worked heavily on frontend development, built multiple projects, participated in hackathons, and started my DSA journey. Now I’m moving toward backend development, open source, and larger production-style projects.
+---
 
-Currently preparing to build a startup-scale project 🚀
-
-🛠️ Tech Stack
-
- ~ Languages:
-
-Java (DSA)
-
-JavaScript
-
-Python
-
-~ Frontend:
-
-React
-
-Vite
-
-Tailwind CSS
-
-HTML • CSS
-
-~Tools & Workflow :
-
-Git & GitHub
-
-Linux
-
-Figma → Code
-
-REST APIs
-
-📌 Featured Projects
-
-🔹 Evently — Event Booking App
-Event discovery & booking UI built with React + Tailwind.
-
-🔹 Temple Management System
-Crowd monitoring, queue system, analytics dashboard & authentication.
-
-🔹 Squad Portfolio Website 🏆
-Responsive multi-page site — Winner of squad competition.
-
-👉 Check repositories below 👇
-
-📈 Currently Learning:
-
-Backend Development
-
-Advanced DSA
-
-System Thinking
-
-Open Source Collaboration
-
-⚡ Fun Side
-
-When I’m not coding:
-
-🏓 Table Tennis
-
-🏏 Cricket
-
-♟️ Chess
-
-✍️ Writing stories & lyrics
-
-🎧 Music & 🎬 Movies
-
-🤝 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/avi4rag/
-
-⭐ If you like my work, consider giving a star to the repos!
+### 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/avi4rag/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
