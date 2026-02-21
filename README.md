@@ -20,12 +20,8 @@
 <tr>
 <td>
 
-Computer Science student focused on backend engineering and production-style systems.
+Computer Science student focusing on full stack web development and production-style systems.
 
-I code **5–6 hours daily** in a Linux-based environment and prioritize building real-world applications instead of staying in tutorial loops.
-
-My direction is clear:  
-Understand backend architecture deeply. Build scalable systems. Grow through execution.
 
 </td>
 </tr>
@@ -176,9 +172,15 @@ Built during Smart India Hackathon.
 </td>
 </tr>
 </table>
-
 ---
 
+## 🧠 The Architect's Mindset
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Stay%20hungry,%20stay%20foolish.&author=Steve%20Jobs&theme=dark&text_color=f2f2f2" />
+</p>
+
+---
 
 ## 🤝 Connect With Me
 
@@ -195,7 +197,7 @@ Built during Smart India Hackathon.
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
----
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:7a1c1c,100:0f0f0f&height=180&section=footer&animation=twinkling" />
 </p>
