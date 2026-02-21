@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=800&color=8B0000&center=true&vCenter=true&width=750&lines=Backend+Engineering+in+Progress;Coding+5-6+Hours+Daily;Linux+Based+Workflow;System+Thinking+Over+Tutorials;Future+Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=800&color=8B0000&center=true&vCenter=true&width=750&lines=Backend+Engineering+in+Progress;Future+Full+Stack+Web+Developer;Linux+Based+Workflow;System+Thinking+Over+Tutorials;Future+Open+Source+Contributor" />
 </p>
 
 <p align="center">
