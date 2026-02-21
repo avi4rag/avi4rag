@@ -49,31 +49,38 @@ Understand backend architecture deeply. Build scalable systems. Grow through exe
 </tr>
 </table>
 
----
+<div align="center">
 
-
-## 🛠 Backend & Development Toolkit
+## 🛠️ My Digital Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,git,linux,vscode,react,tailwind,java,python" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-<table>
-<tr>
-<td>
+### ⚡ Languages & Core
+[![My Skills](https://skillicons.dev/icons?i=java,python,js)](https://skillicons.dev)
 
-**Core Backend:**  
-Node.js • Express • REST API Design • Authentication & Middleware  
+<br>
 
-**API & Testing:**  
-Postman • VS Code REST Client • JSON validation  
+### 🚀 Modern Fullstack
+[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,redux,nodejs,express,mongodb,bun)](https://skillicons.dev)
 
-**Database:**  
-MongoDB • Schema Design • CRUD Operations  
+<br>
 
-**Environment:**  
-Linux • Git & GitHub • CLI Workflow  
+### 🧪 Reliability & Testing
+[![My Skills](https://skillicons.dev/icons?i=vitest,jest)](https://skillicons.dev)
 
+<br>
+
+### 🔧 Ecosystem & Workflow
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma)](https://skillicons.dev)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+</div>
+
+</div>
 </td>
 </tr>
 </table>
