@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=800&color=8B0000&center=true&vCenter=true&width=750&lines=Backend+Engineering+in+Progress;Future+Full+Stack+Web+Developer;Linux+Based+Workflow;System+Thinking+Over+Tutorials;Future+Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=800&color=8B0000&center=true&vCenter=true&width=750&lines=Building+Scalable+Systems+End-to-End;Full-Stack+Engineer+in+Progress;Linux+Based+Workflow;System+Thinking+Over+Tutorials" />
 </p>
 
 <p align="center">
@@ -20,7 +20,8 @@
 <tr>
 <td>
 
-Computer Science student focusing on full stack web development and production-style systems.
+Computer Science student focused on full stack web development and production-level architecture.
+I care about API design, system thinking, and writing maintainable code over chasing trends.
 
 
 </td>
@@ -44,7 +45,6 @@ Computer Science student focusing on full stack web development and production-s
 </td>
 </tr>
 </table>
-
 <div align="center">
 
 ## 🛠️ My Digital Toolbox
@@ -54,28 +54,62 @@ Computer Science student focusing on full stack web development and production-s
 </p>
 
 ### ⚡ Languages & Core
-[![My Skills](https://skillicons.dev/icons?i=java,python,js)](https://skillicons.dev)
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" />
+</p>
 
 <br>
 
 ### 🚀 Modern Fullstack
-[![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,redux,nodejs,express,mongodb,bun)](https://skillicons.dev)
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind,nodejs,express,mongodb" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="60" />
+ 
 
 <br>
 
 ### 🧪 Reliability & Testing
-[![My Skills](https://skillicons.dev/icons?i=vitest,jest)](https://skillicons.dev)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vitest" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="60" />
+</p>
 
 <br>
 
 ### 🔧 Ecosystem & Workflow
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma)](https://skillicons.dev)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git"/>
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
-</div>
 
+</div>
 </div>
 </td>
 </tr>
@@ -168,6 +202,9 @@ Built during Smart India Hackathon.
 • Learn deployment & DevOps fundamentals  
 • Integrate backend systems with AI/ML workflows  
 • Strengthen architecture & system thinking  
+• Advanced DSA in Java
+• System design fundamentals
+• DevOps basics (CI/CD, deployment pipelines)
 
 </td>
 </tr>
@@ -180,7 +217,7 @@ Built during Smart India Hackathon.
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Stay%20hungry,%20stay%20foolish.&author=Steve%20Jobs&theme=dark&text_color=f2f2f2" />
 </p>
 
----
+
 
 ## 🤝 Connect With Me
 
