@@ -53,7 +53,6 @@ I care about API design, system thinking, and writing maintainable code over cha
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-### ⚡ Languages & Core
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" />
@@ -64,8 +63,6 @@ I care about API design, system thinking, and writing maintainable code over cha
 </p>
 
 <br>
-
-### 🚀 Modern Fullstack
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" />
@@ -79,7 +76,7 @@ I care about API design, system thinking, and writing maintainable code over cha
 
 <br>
 
-### 🧪 Reliability & Testing
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vitest" />
@@ -89,7 +86,7 @@ I care about API design, system thinking, and writing maintainable code over cha
 
 <br>
 
-### 🔧 Ecosystem & Workflow
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git"/>
