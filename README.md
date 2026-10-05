@@ -20,7 +20,7 @@
 <tr>
 <td>
 
-Computer Science student focused on full stack web development and production-level architecture.
+Computer Science student focused on Full-Stack Web Development and production-level architecture.
 I care about API design, system thinking, and writing maintainable code over chasing trends.
 
 
