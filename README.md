@@ -140,7 +140,7 @@ I care about API design, system thinking, and writing maintainable code over cha
 <td width="50%" valign="top">
 
 ### 🛕 Somnath Darshan Flow  
-Temple Management System
+Divya Setu
 
 <img src="https://raw.githubusercontent.com/avi4rag/avi4rag/main/Assets/somnath-preview.png" />
 
